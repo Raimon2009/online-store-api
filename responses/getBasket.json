@@ -1,17 +1,21 @@
 {
-  "amount": 46600,
+  "amount": 83.12,
   "countGoods": 2,
   "contents": [
     {
-      "id_product": 123,
-      "product_name": "Ноутбук",
-      "price": 45600,
+      "id_product": 2,
+      "product_name": "Sweater with hat",
+      "color": "Blue",
+      "price": 37.12,
+      "size": "XL",
       "quantity": 1
     },
     {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
+      "id_product": 1,
+      "product_name": "Shirt",
+      "color": "Red",
+      "price": 46.00,
+      "size": "XL",
       "quantity": 1
     }
   ]

@@ -1,12 +1,65 @@
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
+    "id_product": 0,
+    "product_name": "Jacket",
+    "color": "Blue",
+    "size": "XL",
+    "price": 52.00
   },
   {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
+    "id_product": 1,
+    "product_name": "Shirt",
+    "size": "XL",
+    "color": "Red",
+    "price": 46.00
+  },
+  {
+    "id_product": 2,
+    "product_name": "Sweater with hat",
+    "color": "Blue",
+    "size": "XL",
+    "price": 37.12
+  },
+  {
+    "id_product": 3,
+    "product_name": "T-shirt",
+    "color": "Blue",
+    "size": "XXL",
+    "price": 51.00
+  },
+  {
+    "id_product": 4,
+    "product_name": "Sweater",
+    "color": "White",
+    "size": "XL",
+    "price": 100.00
+  },
+  {
+    "id_product": 5,
+    "product_name": "T-shirt",
+    "color": "White",
+    "size": "XXL",
+    "price": 64.00
+  },
+  {
+    "id_product": 6,
+    "product_name": "Shirt",
+    "color": "White",
+    "size": "XL",
+    "price": 51.00
+  },
+  {
+    "id_product": 7,
+    "product_name": "Jacket",
+    "color": "Black",
+    "size": "XL",
+    "price": 153.14
+  },
+  {
+    "id_product": 8,
+    "product_name": "T-shirt",
+    "color": "Green",
+    "size": "XXL",
+    "price": 5.00
   }
 ]
